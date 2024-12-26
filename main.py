@@ -25,7 +25,7 @@ def extract_email_column(file_path, sheet_name='Form Responses 1', email_column_
     return emails
 
 # Example usage:
-file_path = 'em.xlsx'  # Path to your Excel file
+file_path = 'file_name.xlsx'  # Path to your Excel file
 output_file = 'emails.txt'  # Output file name
 
 emails = extract_email_column(file_path)
