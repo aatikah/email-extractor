@@ -74,3 +74,8 @@ The script will raise a ValueError if:
 ## Contributing
 
 Feel free to open issues or submit pull requests if you have suggestions for improvements.
+---
+
+**⭐ If you find this project helpful, please give it a star!**
+- Support me- [buymeacoffee.com/aatikah](https://buymeacoffee.com/aatikah)
+- Connect with me on LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/abdulhakeem-sulaiman/)
